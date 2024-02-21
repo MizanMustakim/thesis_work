@@ -1,0 +1,12 @@
+train: /Users/ky/Desktop/experiment_5/merged_data/train   # 18684 images
+val: /Users/ky/Desktop/experiment_5/merged_data/validation  # 5083 images
+# test: ./data/test
+# number of classes
+nc: 4
+
+# class names
+names: 
+  0: 'D00'
+  1: 'D10'
+  2: 'D20'
+  3: 'D40' 
