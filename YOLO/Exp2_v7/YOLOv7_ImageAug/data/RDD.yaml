@@ -1,0 +1,8 @@
+train: ./Merged_data/train   # 18684 images
+val: ./Merged_data/validation  # 5083 images
+test: ./Merged_data/test
+# number of classes
+nc: 4
+
+# class names
+names: [ 'D00', 'D10', 'D20', 'D40' ]
