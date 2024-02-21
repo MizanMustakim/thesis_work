@@ -1,0 +1,8 @@
+train: ./data/train   # 18684 images
+val: ./data/validation  # 5083 images
+# test: ./coco/test-dev2017.txt  
+# number of classes
+nc: 4
+
+# class names
+names: [ 'D00', 'D10', 'D20', 'D40' ]
